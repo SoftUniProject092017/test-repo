@@ -1,6 +1,6 @@
 Name: Slavyana
-size = 165
-email = peter@dir.bg
+size = 175
+email = slaviana95@gmail.com
 
 Name:Virzhiniya
 size = 175
