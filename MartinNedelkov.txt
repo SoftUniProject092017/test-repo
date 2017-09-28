@@ -1,3 +1,8 @@
 My name is Martin.
 I am from Sofia.
+<<<<<<< HEAD
 Testing. Beta.
+=======
+Testing 
+Lets make a conflict!
+>>>>>>> 68847602dbf69aa06da71454fb97722a70432fae
